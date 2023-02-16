@@ -20,6 +20,9 @@
 - https://openai.com/blog/improving-language-model-behavior/
 - https://platform.openai.com/docs/guides/production-best-practices -> Mejores prácticas para la puesta en producción
 - https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md
+- https://www.indiehackers.com/post/how-to-fine-tune-a-gpt-3-model-using-python-with-your-own-data-for-improved-performance-198dfe51d6
+- https://www.mlq.ai/fine-tuning-gpt-3-question-answer-bot/
+- https://www.allabtai.com/fine-tuning-gpt3/
 
 ### Notebooks
 1.  https://github.com/openai/openai-cookbook/blob/main/examples/fine-tuned_qa/olympics-1-collect-data.ipynb -> Question answering
@@ -32,3 +35,4 @@
 - https://arxiv.org/abs/2203.02155 -> **Training language models to follow instructions with human feedback**
 - https://arxiv.org/abs/2005.14165 -> **Language Models are Few-Shot Learners (GPT-3 paper)**
 - https://cdn.openai.com/palms.pdf -> **Process for Adapting Language Models to Society (PALMS) with Values-Targeted Datasets**
+- https://platform.openai.com/docs/model-index-for-researchers

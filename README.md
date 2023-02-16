@@ -30,5 +30,5 @@
 ## Papers
 - https://arxiv.org/abs/2112.09332 -> WebGPT (Futuro ChatGPT con acceso a internet)
 - https://arxiv.org/abs/2203.02155 -> **Training language models to follow instructions with human feedback**
-- https://arxiv.org/abs/2005.14165 -> **Language Models are Few-Shot Learners**
+- https://arxiv.org/abs/2005.14165 -> **Language Models are Few-Shot Learners (GPT-3 paper)**
 - https://cdn.openai.com/palms.pdf -> **Process for Adapting Language Models to Society (PALMS) with Values-Targeted Datasets**

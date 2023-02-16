@@ -6,18 +6,6 @@
 - https://github.com/saharmor/awesome-chatgpt -> Ejemplos de apps
 - https://openai.com/blog/gpt-3-apps/ -> Ejemplos de apps
 
-## Customizar GPT-3 (Fine-tuning)
-- https://platform.openai.com/docs/guides/fine-tuning
-- https://openai.com/blog/customized-gpt-3/
-- https://openai.com/blog/improving-language-model-behavior/
-- https://platform.openai.com/docs/guides/production-best-practices -> Mejores prácticas para la puesta en producción
-- https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md
-### Notebooks
-1.  https://github.com/openai/openai-cookbook/blob/main/examples/fine-tuned_qa/olympics-1-collect-data.ipynb -> Question answering
-2.  https://github.com/openai/openai-cookbook/blob/main/examples/fine-tuned_qa/olympics-2-create-qa.ipynb -> Question answering
-3.  https://github.com/openai/openai-cookbook/blob/main/examples/fine-tuned_qa/olympics-3-train-qa.ipynb -> Question answering
-- https://github.com/openai/openai-cookbook/blob/main/examples/Fine-tuned_classification.ipynb -> Clasificación
-
 ## Modelos GPT-3 de OpenAI
 - https://platform.openai.com/docs/models/gpt-3
 
@@ -25,6 +13,19 @@
 - https://openai.com/api/pricing
 - https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them -> Explicación sobre los tokens en OpenAI
 - https://platform.openai.com/tokenizer -> Herramienta interactiva para calcular tokens.
+
+## Customizar GPT-3 (Fine-tuning)
+- https://platform.openai.com/docs/guides/fine-tuning
+- https://openai.com/blog/customized-gpt-3/
+- https://openai.com/blog/improving-language-model-behavior/
+- https://platform.openai.com/docs/guides/production-best-practices -> Mejores prácticas para la puesta en producción
+- https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md
+
+### Notebooks
+1.  https://github.com/openai/openai-cookbook/blob/main/examples/fine-tuned_qa/olympics-1-collect-data.ipynb -> Question answering
+2.  https://github.com/openai/openai-cookbook/blob/main/examples/fine-tuned_qa/olympics-2-create-qa.ipynb -> Question answering
+3.  https://github.com/openai/openai-cookbook/blob/main/examples/fine-tuned_qa/olympics-3-train-qa.ipynb -> Question answering
+- https://github.com/openai/openai-cookbook/blob/main/examples/Fine-tuned_classification.ipynb -> Clasificación
 
 ## Papers
 - https://arxiv.org/abs/2112.09332 -> WebGPT (Futuro ChatGPT con acceso a internet)
